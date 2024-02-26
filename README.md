@@ -5,7 +5,6 @@ Full Stack Developer passionate about creating innovative and robust solutions f
 - 🔭 I’m currently working on 
 - 🌱 I am studying different languages ​​and frameworks such as: angular, c#, React, node.js, laravel
 - 🤔 I’m looking for help with everything
-- 💬 Ask me about universe 
 - 📫 How to reach me: brunomateusrch@gmail.com
 
 
