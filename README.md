@@ -6,7 +6,7 @@ Full Stack Developer passionate about creating innovative and robust solutions f
 - 🌱 I am studying different languages ​​and frameworks such as: angular, c#, React, node.js, laravel
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about universe 
-- 📫 How to reach me: brunomateus2014@gmail.com
+- 📫 How to reach me: brunomateusrch@gmail.com
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMateus17\&bg_color=30,0e1c26,294861\&title_color=fff\&text_color=fff&langs_count=20)
@@ -33,7 +33,6 @@ Full Stack Developer passionate about creating innovative and robust solutions f
   ##
 <div> 
   <a href="https://instagram.com/bruno.mateus.r" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:brunomateus2014@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="mailto:brunomateusrch@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunomateusrocha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
