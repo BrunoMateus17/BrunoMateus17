@@ -2,9 +2,6 @@ Welcome to my space. Here you can see many of my works!<br>
 
 Full Stack Developer passionate about creating innovative and robust solutions for complex challenges. With over 5 years of experience in web development, I specialize in several layers of development, from creating engaging user interfaces to implementing scalable architectures in back-ends.
 
-- 🔭 I’m currently working on 
-- 🌱 I am studying different languages ​​and frameworks such as: angular, c#, React, node.js, laravel
-- 🤔 I’m looking for help with everything
 - 📫 How to reach me: brunomateusrch@gmail.com
 
 
